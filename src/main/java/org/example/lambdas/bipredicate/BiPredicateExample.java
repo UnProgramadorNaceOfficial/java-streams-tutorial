@@ -1,4 +1,4 @@
-package org.example.bipredicate;
+package org.example.lambdas.bipredicate;
 
 import java.util.function.BiPredicate;
 

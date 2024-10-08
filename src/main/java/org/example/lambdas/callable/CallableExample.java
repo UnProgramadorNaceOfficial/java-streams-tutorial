@@ -1,4 +1,4 @@
-package org.example.callable;
+package org.example.lambdas.callable;
 
 import java.util.concurrent.Callable;
 

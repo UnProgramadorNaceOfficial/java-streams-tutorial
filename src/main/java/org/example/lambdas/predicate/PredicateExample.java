@@ -1,4 +1,4 @@
-package org.example.predicate;
+package org.example.lambdas.predicate;
 
 import java.util.function.Predicate;
 

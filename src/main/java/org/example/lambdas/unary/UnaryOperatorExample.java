@@ -1,4 +1,4 @@
-package org.example.unary;
+package org.example.lambdas.unary;
 
 import java.util.function.UnaryOperator;
 
